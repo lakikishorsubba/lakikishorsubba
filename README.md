@@ -14,9 +14,9 @@ I'm a passionate programmer and system admin enthusiast. I enjoy learning new te
 ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-DD0031?style=flat&logo=ruby-on-rails)
 
 ### DevOps & Tools
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f1502f?style=flat&logo=git&logoColor=white)
 
 ### Networking & Other Interests
 - Computer Networking concepts
