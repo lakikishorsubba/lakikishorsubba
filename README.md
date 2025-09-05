@@ -26,12 +26,11 @@ I'm a passionate programmer and system admin enthusiast. I enjoy learning new te
 ## Currently Learning
 - Rails API
 - Advanced DevOps workflows
-- Full-stack application architecture
 
 ## Contact Me
 - Email: `lakikishor7@gmail.com`
 - Instagram: [@lakikishorsubba](https://instagram.com/lakikishorsubba)
 
 ## GitHub Stats
-![Laki's GitHub stats](https://github-readme-stats.vercel.app/api?username=laki&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laki&layout=compact&theme=radical)
+![Laki's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakikishorsubba&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakikishorsubba&layout=compact&theme=radical)
