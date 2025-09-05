@@ -1,6 +1,6 @@
-# Hi, I'm Laki 👋
+# Hi, I'm Laki Kishor Subba 👋
 
-I'm a passionate programmer and system admin enthusiast. I enjoy learning new technologies and building projects.
+I love programming and system administration. I enjoy learning new technologies and building projects.
 
 ## Skills & Technologies
 
