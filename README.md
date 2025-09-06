@@ -7,10 +7,8 @@ I love programming and system administration. I enjoy learning new technologies 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-DD0031?style=flat&logo=ruby-on-rails)
 
 ### DevOps & Tools
