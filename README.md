@@ -32,7 +32,7 @@ I love programming and DevOps. I enjoy learning new technologies, building proje
 ## Contact Me
 - Email: `lakikishor7@gmail.com`
 - Instagram: [@lakikishorsubba](https://instagram.com/lakikishorsubba)
-- https://www.linkedin.com/in/laki-kishor-subba-0a97b7294/
+- LinkedIn: https://www.linkedin.com/in/laki-kishor-subba-0a97b7294/
 
 ## GitHub Stats
 ![Laki's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakikishorsubba&show_icons=true&theme=radical)
