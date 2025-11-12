@@ -2,7 +2,7 @@
 
 I love programming and DevOps. I enjoy learning new technologies, building projects and automations.
 
-## Skills & Technologies
+## Learning Skills & Technologies
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -27,9 +27,9 @@ I love programming and DevOps. I enjoy learning new technologies, building proje
 
 ## Currently Learning
 ![Ruby on Rails](https://img.shields.io/badge/-Rails_API-DD0031?style=flat&logo=ruby-on-rails&logoColor=white)
-![DevOps](https://img.shields.io/badge/-Advanced_DevOps_Workflows-0A0A0A?style=flat&logo=devops&logoColor=white)
+![DevOps](https://img.shields.io/badge/-Advanced_DevOps_Workflows-2F4F4F?style=flat&logo=gear&logoColor=white)
 
-## Contact Me
+## Connect with me
 - Email: `lakikishor7@gmail.com`
 - Instagram: [@lakikishorsubba](https://instagram.com/lakikishorsubba)
 - LinkedIn: https://www.linkedin.com/in/laki-kishor-subba-0a97b7294/
