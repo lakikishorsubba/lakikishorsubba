@@ -1,6 +1,6 @@
 # Hi, I'm Laki Kishor Subba 👋
 
-I love programming and DevOps. I enjoy learning new technologies, building projects and automations.
+I love programming and DevOps. I enjoy learning new technologies, building projects and automating the tasks.
 
 ## Learning Skills & Technologies
 
