@@ -7,10 +7,13 @@ I love programming and DevOps. I enjoy learning new technologies, building proje
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-DD0031?style=flat&logo=ruby-on-rails&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 
 ### DevOps & Tools
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=white)
@@ -31,7 +34,6 @@ I love programming and DevOps. I enjoy learning new technologies, building proje
 
 ## Connect with me
 - Email: `lakikishor7@gmail.com`
-- Instagram: [@lakikishorsubba](https://instagram.com/lakikishorsubba)
 - LinkedIn: https://www.linkedin.com/in/laki-kishor-subba-0a97b7294/
 
 ## GitHub Stats
