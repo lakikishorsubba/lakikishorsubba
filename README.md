@@ -37,5 +37,5 @@ I love programming and DevOps. I enjoy learning new technologies, building proje
 - LinkedIn: https://www.linkedin.com/in/laki-kishor-subba-0a97b7294/
 
 ## GitHub Stats
-![Laki's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakikishorsubba&show_icons=true&theme=radical)
+![Laki's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakikishorsubba&show_icons=true&theme=radical&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakikishorsubba&layout=compact&theme=radical)
