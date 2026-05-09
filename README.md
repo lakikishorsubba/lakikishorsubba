@@ -29,7 +29,7 @@ I love programming and DevOps. I enjoy learning new technologies, building proje
 - APIs and Backend Development
 
 ## Currently Learning
-![Ruby on Rails](https://img.shields.io/badge/-Rails_API-DD0031?style=flat&logo=ruby-on-rails&logoColor=white)
+![Advance Ruby on Rails with GraphQL](https://img.shields.io/badge/-Rails_API-DD0031?style=flat&logo=ruby-on-rails&logoColor=white)
 ![DevOps](https://img.shields.io/badge/-Advanced_DevOps_Workflows-2F4F4F?style=flat&logo=gear&logoColor=white)
 
 ## Connect with me
