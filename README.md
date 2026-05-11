@@ -36,6 +36,5 @@ I love programming and DevOps. I enjoy learning new technologies, building proje
 - Email: `lakikishor7@gmail.com`
 - LinkedIn: https://www.linkedin.com/in/laki-kishor-subba-0a97b7294/
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lakikishorsubba&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lakikishorsubba&layout=compact&theme=radical)
+## GitHub Contributions
+![GitHub Streak](https://streak-stats.demolab.com?user=lakikishorsubba&theme=radical&hide_border=true)
