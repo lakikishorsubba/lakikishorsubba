@@ -1,7 +1,7 @@
 # Hi, I'm Laki Kishor Subba 👋
 
 I love programming and DevOps. I enjoy learning new technologies, building projects and automating the tasks.
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://lakikishorsubba-portfolio.vercel.app/)
+[Visit my portfolio](https://lakikishorsubba-portfolio.vercel.app/)
 
 ## Learning Skills & Technologies
 
