@@ -2,7 +2,7 @@
 
 I love programming and DevOps. I enjoy learning new technologies, building projects and automating the tasks.
 
-## 🌐 Portfolio
+## 🌐 View Portfolio
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit%20Now-0078D4?style=for-the-badge&logo=vercel)](https://lakikishorsubba-portfolio.vercel.app/)
 
 ## Learning Skills & Technologies
