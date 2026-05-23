@@ -1,4 +1,4 @@
-# Hi, I'm Laki Kishor Subba 👋
+# Hi, I'm Laki Kishor Subba
 
 I love programming and DevOps. I enjoy learning new technologies, building projects and automating the tasks.
 
