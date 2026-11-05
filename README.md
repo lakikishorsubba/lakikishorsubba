@@ -66,9 +66,6 @@ I love programming and DevOps. I specialize in **advanced Ruby on Rails**, build
 </p>
 
 ---
-
----
-
 <!-- Footer banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=100&section=footer" />
