@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E100FF&center=true&vCenter=true&width=600&lines=Building+projects+with+Python%2C+Ruby+%26+JavaScript;Automating+everything+with+DevOps;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E100FF&center=true&vCenter=true&width=600&lines=Advanced+Ruby+on+Rails+Developer;Building+advanced+projects+%26+solutions;Enhancing+and+scaling+applications;Automating+everything+with+DevOps" />
 </p>
 
 <p align="center">
@@ -17,9 +17,11 @@
 
 ## 👋 About Me
 
-I love programming and DevOps. I enjoy learning new technologies, building projects, and automating tasks.
+I love programming and DevOps. I specialize in **advanced Ruby on Rails**, building advanced projects and solutions, and continuously enhancing them to be faster, cleaner, and more scalable.
 
-- Currently learning **Advanced Rails APIs with GraphQL** and **DevOps workflows**
+- Working on **advanced Ruby on Rails** applications and APIs, including **GraphQL**
+- Building advanced projects and solutions, and enhancing existing ones
+- Automating workflows with **DevOps** tools
 - Interested in **networking**, **security & penetration testing**, and **backend development**
 
 ---
@@ -48,27 +50,27 @@ I love programming and DevOps. I enjoy learning new technologies, building proje
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakikishorsubba&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lakikishorsubba&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakikishorsubba&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  <img height="180" src="./profile-summary-card-output/radical/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/radical/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/radical/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lakikishorsubba&theme=radical&hide_border=true" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakikishorsubba&theme=react-dark&hide_border=true&bg_color=141321&color=E100FF&line=7F00FF&point=ffffff" />
+  <img src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/output/github-snake-dark.svg" />
 </p>
 
 ---
