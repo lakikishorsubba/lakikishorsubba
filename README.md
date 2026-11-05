@@ -67,12 +67,6 @@ I love programming and DevOps. I specialize in **advanced Ruby on Rails**, build
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/output/github-snake-dark.svg" />
-</p>
-
 ---
 
 <!-- Footer banner -->
