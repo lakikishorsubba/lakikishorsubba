@@ -1,43 +1,79 @@
-# Hi, I'm Laki Kishor Subba
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Laki%20Kishor%20Subba&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=18" />
+</p>
 
-I love programming and DevOps. I enjoy learning new technologies, building projects and automating the tasks.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E100FF&center=true&vCenter=true&width=600&lines=Building+projects+with+Python%2C+Ruby+%26+JavaScript;Automating+everything+with+DevOps;Always+learning+something+new" />
+</p>
 
-## 🌐 View Portfolio
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit%20Now-0078D4?style=for-the-badge&logo=vercel)](https://lakikishorsubba-portfolio.vercel.app/)
+<p align="center">
+  <a href="https://lakikishorsubba-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/laki-kishor-subba-0a97b7294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lakikishor7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## Learning Skills & Technologies
+---
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 👋 About Me
 
-### Frameworks
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-DD0031?style=flat&logo=ruby-on-rails&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+I love programming and DevOps. I enjoy learning new technologies, building projects, and automating tasks.
 
-### DevOps & Tools
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f1502f?style=flat&logo=git&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623ce4?style=flat&logo=terraform&logoColor=white)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1563ff?style=flat&logo=vagrant&logoColor=white)
+- Currently learning **Advanced Rails APIs with GraphQL** and **DevOps workflows**
+- Interested in **networking**, **security & penetration testing**, and **backend development**
 
-### Networking & Other Interests
-- Computer Networking concepts
-- Security and Penetration Testing
-- APIs and Backend Development
+---
 
-## Currently Learning
-![Advance Ruby on Rails with GraphQL](https://img.shields.io/badge/-Rails_API-DD0031?style=flat&logo=ruby-on-rails&logoColor=white)
-![DevOps](https://img.shields.io/badge/-Advanced_DevOps_Workflows-2F4F4F?style=flat&logo=gear&logoColor=white)
+## 🛠️ Tech Stack
 
-## Connect with me
-- Email: `lakikishor7@gmail.com`
-- LinkedIn: https://www.linkedin.com/in/laki-kishor-subba-0a97b7294/
+**Languages**
 
-## GitHub Contributions
-![GitHub Streak](https://streak-stats.demolab.com?user=lakikishorsubba&theme=radical&hide_border=true)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ruby,js" />
+</p>
+
+**Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,rails,react" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48" />
+</p>
+
+**DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,ansible,terraform" />
+  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" height="48" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lakikishorsubba&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lakikishorsubba&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakikishorsubba&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lakikishorsubba&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakikishorsubba&theme=react-dark&hide_border=true&bg_color=141321&color=E100FF&line=7F00FF&point=ffffff" />
+</p>
+
+---
+
+<!-- Footer banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=100&section=footer" />
+</p>
