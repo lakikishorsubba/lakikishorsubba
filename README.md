@@ -53,12 +53,12 @@ I love programming and DevOps. I specialize in **advanced Ruby on Rails**, build
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/radical/0-profile-details.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/main/profile-summary-card-output/radical/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/radical/3-stats.svg" />
-  <img height="180" src="./profile-summary-card-output/radical/2-most-commit-language.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/main/profile-summary-card-output/radical/3-stats.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
