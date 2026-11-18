@@ -21,8 +21,7 @@ I love programming and DevOps. I specialize in **advanced Ruby on Rails**, build
 
 - Working on **advanced Ruby on Rails** applications and APIs, including **GraphQL**
 - Building advanced projects and solutions, and enhancing existing ones
-- Automating workflows with **DevOps** tools
-- Interested in **networking**, **security & penetration testing**, and **backend development**
+- Interested in  **DevOps**, **networking**, **security & penetration testing**, and **backend development**
 
 ---
 
