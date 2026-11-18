@@ -53,16 +53,16 @@ I love programming and DevOps. I specialize in **advanced Ruby on Rails**, build
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/main/profile-summary-card-output/radical/0-profile-details.svg" />
+  <img width="700" src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/main/profile-summary-card-output/radical/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/main/profile-summary-card-output/radical/3-stats.svg" />
-  <img height="180" src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
+  <img width="348" src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/main/profile-summary-card-output/radical/3-stats.svg" />
+  <img width="348" src="https://raw.githubusercontent.com/lakikishorsubba/lakikishorsubba/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lakikishorsubba&theme=radical&hide_border=true" />
+  <img width="700" src="https://streak-stats.demolab.com?user=lakikishorsubba&theme=radical&hide_border=true&card_width=700" />
 </p>
 
 ---
